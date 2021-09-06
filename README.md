@@ -8,7 +8,11 @@
 <br>
 ▪️ Seattle native 🇺🇸 in Berlin wohnen 🇩🇪 mais la vie est Belge 🇧🇪
 <br>
-▪️ I seek to contribute to this world through algorithms with a side of silliness
+▪️ When I'm not coding I love to grow things 🪴, look at old Irish cottages online and dream about restoring them 🏠, watch Outlander 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and make 
+  <a target="_blank" href="https://www.youtube.com/channel/UCIq8owOmHRUwtnjIE9BSjyQ?sub_confirmation=1"><strong>YouTube videos.</a>
+<br>
+<br>
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> Reach out and lets collab on projects that help refugees & immigrants!
 </strong></h3>
 
 <a target="_blank" href="https://linkedin.com/in/jenniferglassmyer/">
@@ -47,12 +51,4 @@ availableForHire: true
 }
 ```
 [![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennyglassmyer)](https://github.com/jennyglassmyer/github-readme-stats)
-
-
-<em><b>
-When I'm not coding I love to grow things 🪴, look at old Irish cottages online and dream about buying and restoring them 🏠, watch Outlander 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and make <a target="_blank" href="https://www.youtube.com/channel/UCIq8owOmHRUwtnjIE9BSjyQ?sub_confirmation=1"><strong>YouTube videos.</strong></a>
-<br>
-<br>
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30">Reach out and lets collab on projects that help refugees & immigrants!
-</b></em>
 
