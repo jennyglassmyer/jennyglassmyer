@@ -1,16 +1,14 @@
 <img align="right" src="https://media.giphy.com/media/BpS6k9mXoDiZa/giphy.gif?cid=790b76118c33e0081aa5015fcc19bb80830b750c9ae51d67&rid=giphy.gif&ct=g" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/jennyglassmyer/jennyglassmyer/master/wave.gif" width="30px"><strong> Hi there, I'm <a href="#">Jennifer Glassmyer!</a></strong>
+<h1 align="left"><img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="30px" height="30px"><strong> Hi there, I'm <a href="#">Jennifer Glassmyer!</a></strong>
 </h1>
 <br>
 <h3 align="left"><strong>
-Backend Software Engineer/Immigrant and Refugee Advocate
+▪️ Backend Software Engineer/Immigrant and Refugee Advocate
 <br>
-Seattle native 🇺🇸 in Berlin wohnen 🇩🇪 mais la vie est Belge 🇧🇪
- </strong></h3>
+▪️ Seattle native 🇺🇸 in Berlin wohnen 🇩🇪 mais la vie est Belge 🇧🇪
 <br>
-<h3 align="left"><strong>
-I seek to contribute to this world with my algorithms and a side of silliness.
+▪️ I seek to contribute to this world through algorithms with a side of silliness
 </strong></h3>
 
 <a target="_blank" href="https://linkedin.com/in/jenniferglassmyer/">
