@@ -45,6 +45,9 @@ const jennyglassmyer = {
   ],
 availableForHire: true
 }
+```
+[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennyglassmyer)](https://github.com/jennyglassmyer/github-readme-stats)
+
 
 <em><b>
 When I'm not coding I love to grow things 🪴, look at old Irish cottages online and dream about buying and restoring them 🏠, watch Outlander 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and make <a target="_blank" href="https://www.youtube.com/channel/UCIq8owOmHRUwtnjIE9BSjyQ?sub_confirmation=1"><strong>YouTube videos.</strong></a>
