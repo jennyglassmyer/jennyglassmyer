@@ -4,11 +4,11 @@
 </h1>
 <br>
 <h3 align="left"><strong>
-▪️ Backend Software Engineer/Immigrant and Refugee Advocate
+▪️ Backend Software Engineer & Refugee Advocate
 <br>
-▪️ Seattle native 🇺🇸 in Berlin wohnen 🇩🇪 mais la vie est Belge 🇧🇪
+▪️ Seattle native, in Berlin wohnen, mais la vie est Belge 
 <br>
-▪️ When I'm not coding I love to grow things 🪴, look at old Irish cottages online and dream about restoring them 🏠, watch Outlander 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and make 
+▪️ When I'm not coding I love to grow things 🪴, look at old Irish cottages online 🏠, watch Outlander 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and make 
   <a target="_blank" href="https://www.youtube.com/channel/UCIq8owOmHRUwtnjIE9BSjyQ?sub_confirmation=1"><strong>YouTube videos.</a>
 <br>
 <br>
@@ -50,5 +50,4 @@ const jennyglassmyer = {
 availableForHire: true
 }
 ```
-[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennyglassmyer)](https://github.com/jennyglassmyer/github-readme-stats)
 
