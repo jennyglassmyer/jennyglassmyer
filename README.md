@@ -25,29 +25,3 @@
 <img src="https://img.shields.io/badge/-jennyglassmyer-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/enniferglassmyer_/" alt="Instagram Badge">
 </a>
 <br>
-
-<br>
-
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
-
-```javascript
-const jennyglassmyer = {
-  education: ["Le Wagon Web Development Bootcamp", "MA Refugee Protection and Forced Migration"],
-  otherAlias: "Backend Developer",
-  codesIn: ["Ruby", "Javascript", "HTML", "CSS"],
-  currentlyLearning: ["Node.js", "Typescript, "AWS", "German"],
-  toolsUsing: ["Ruby on Rails", "Stimulus", "Sass", "PostgreSQL", "Bootstrap", "Heroku", "Figma"],
-  experiences: [
-    {
-      company : "Jewish Family Service",
-      post3 : "Immigration Project Manager",
-      post2 : "Pre-Arrival Services Coordinator",
-      post1: "Refugee AmeriCorps Cultural Orientation Specialist",
-      startDate: "November 2016",
-      endDate: "December 2020"
-    }
-  ],
-availableForHire: true
-}
-```
-
