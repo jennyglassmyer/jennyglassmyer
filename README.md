@@ -1,5 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/BpS6k9mXoDiZa/giphy.gif?cid=790b76118c33e0081aa5015fcc19bb80830b750c9ae51d67&rid=giphy.gif&ct=g" height="160px" width="auto">
-
 <h1 align="left"><img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="30px" height="30px"><strong> Hi there, I'm <a href="https://jenniferglassmyer.wixsite.com/portfolio">Jennifer Glassmyer!</a></strong>
 </h1>
 <br>
