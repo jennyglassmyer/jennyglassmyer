@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="30px" height="30px"><strong> Hi there, I'm <a href="https://jenniferglassmyer.wixsite.com/portfolio">Jennifer Glassmyer!</a></strong>
+<h1 align="left"><strong> Hi there, I'm <a href="https://jenniferglassmyer.wixsite.com/portfolio">Jennifer Glassmyer!</a></strong>
 </h1>
 <br>
 <h3 align="left"><strong>
