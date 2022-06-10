@@ -10,7 +10,7 @@
   <a target="_blank" href="https://www.youtube.com/channel/UCIq8owOmHRUwtnjIE9BSjyQ?sub_confirmation=1"><strong>YouTube videos.</a>
 <br>
 <br>
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> Reach out and lets collab on projects that help refugees & immigrants!
+Reach out and lets collab on projects that help refugees & immigrants!
 </strong></h3>
 
 <a target="_blank" href="https://linkedin.com/in/jenniferglassmyer/">
